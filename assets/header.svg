@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Abdoulaye Sène, Full-Stack and DevOps Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0.15"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="16" fill="url(#grid)"/>
+  <path d="M0 200 C 200 160, 380 250, 600 210 S 980 150, 1200 200 V260 H0 Z" fill="url(#wave)"/>
+  <path d="M0 225 C 240 190, 420 270, 640 232 S 1000 185, 1200 225 V260 H0 Z" fill="#60a5fa" fill-opacity="0.18"/>
+
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="112" font-size="58" font-weight="700" fill="#ffffff">Abdoulaye Sène</text>
+    <text x="600" y="152" font-size="22" font-weight="600" fill="#bfdbfe" letter-spacing="3">FULL-STACK &amp; DEVOPS DEVELOPER</text>
+    <text x="600" y="186" font-size="16" fill="#93c5fd" font-family="Consolas, 'SF Mono', Menlo, monospace">code → build → container → deploy → monitor</text>
+  </g>
+</svg>

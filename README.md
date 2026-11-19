@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Abdoulaye%20S%C3%A8ne&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20DevOps%20Developer&descAlignY=58&descSize=18" alt="Abdoulaye Sène — Full-Stack & DevOps Developer" width="100%" />
+<img src="./assets/header.svg" alt="Abdoulaye Sène — Full-Stack & DevOps Developer" width="100%" />
 
 **I build web apps and ship them to production.**
 
@@ -63,6 +63,6 @@
 
 **Let's work together.** Pick what fits and [send me an email](mailto:seneabdoulaye124@gmail.com).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%" />
 
 </div>
