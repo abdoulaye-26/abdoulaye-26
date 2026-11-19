@@ -6,9 +6,9 @@
 
 📍 Malika, Dakar, Senegal &nbsp;·&nbsp; 🌍 Remote or on-site &nbsp;·&nbsp; 🗣️ French · English
 
-<a href="https://portfolio-next-rust-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abdoulaye-sene-707801203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:seneabdoulaye124@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://portfolio-next-rust-two.vercel.app"><img src="./assets/badge-portfolio.svg" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdoulaye-sene-707801203/"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:seneabdoulaye124@gmail.com"><img src="./assets/badge-email.svg" alt="Email" /></a>
 
 </div>
 
@@ -27,17 +27,17 @@
 
 <p align="center">
   <b>Frontend & Mobile</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,flutter&perline=8" alt="Frontend stack" />
+  <img src="./assets/stack-frontend.svg" alt="Frontend stack" />
 </p>
 
 <p align="center">
   <b>Backend & Databases</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,py,spring,java,prisma,postgres,mongodb&perline=9" alt="Backend stack" />
+  <img src="./assets/stack-backend.svg" alt="Backend stack" />
 </p>
 
 <p align="center">
   <b>DevOps & Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,gitlab,githubactions,git,vercel,figma&perline=9" alt="DevOps stack" />
+  <img src="./assets/stack-devops.svg" alt="DevOps stack" />
 </p>
 
 ## 🚀 Featured work
