@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Hackathons timeline: SENGAM Hackathon (Apr 2024), Dakar Innovation Days (Jul 2024), BAM Blockchain Hackathon (Oct 2024), Banlieue Smart Days (2025), MAGAL TECH Hackathon (2026)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.6" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="1140" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="250" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="250" rx="16" fill="url(#grid)"/>
+
+  <line x1="60" y1="92" x2="1140" y2="92" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <!-- 1 -->
+    <text x="120" y="62" font-size="15" font-weight="600" fill="#93c5fd" letter-spacing="1">APR 2024</text>
+    <circle cx="120" cy="92" r="9" fill="#0f172a" stroke="#60a5fa" stroke-width="3"/>
+    <text x="120" y="138" font-size="18" font-weight="700" fill="#ffffff">SENGAM Hackathon</text>
+    <text x="120" y="164" font-size="14" fill="#bfdbfe">GoMyCode · Dakar</text>
+
+    <!-- 2 -->
+    <text x="360" y="62" font-size="15" font-weight="600" fill="#93c5fd" letter-spacing="1">JUL 2024</text>
+    <circle cx="360" cy="92" r="9" fill="#0f172a" stroke="#60a5fa" stroke-width="3"/>
+    <text x="360" y="138" font-size="18" font-weight="700" fill="#ffffff">Dakar Innovation Days</text>
+    <text x="360" y="164" font-size="14" fill="#bfdbfe">City of Dakar</text>
+
+    <!-- 3 -->
+    <text x="600" y="62" font-size="15" font-weight="600" fill="#93c5fd" letter-spacing="1">OCT 2024</text>
+    <circle cx="600" cy="92" r="9" fill="#0f172a" stroke="#60a5fa" stroke-width="3"/>
+    <text x="600" y="138" font-size="18" font-weight="700" fill="#ffffff">BAM Blockchain</text>
+    <text x="600" y="164" font-size="14" fill="#bfdbfe">E-voting prototype</text>
+
+    <!-- 4 -->
+    <text x="840" y="62" font-size="15" font-weight="600" fill="#93c5fd" letter-spacing="1">2025</text>
+    <circle cx="840" cy="92" r="9" fill="#0f172a" stroke="#93c5fd" stroke-width="3"/>
+    <text x="840" y="138" font-size="18" font-weight="700" fill="#ffffff">Banlieue Smart Days</text>
+    <text x="840" y="164" font-size="14" fill="#bfdbfe">Built BSD Learn</text>
+
+    <!-- 5 -->
+    <text x="1080" y="62" font-size="15" font-weight="600" fill="#93c5fd" letter-spacing="1">2026</text>
+    <circle cx="1080" cy="92" r="11" fill="#93c5fd"/>
+    <text x="1080" y="138" font-size="18" font-weight="700" fill="#ffffff">MAGAL TECH</text>
+    <text x="1080" y="164" font-size="14" fill="#bfdbfe">Lost &amp; Found AI</text>
+
+    <text x="600" y="218" font-size="14" fill="#93c5fd" font-family="Consolas, 'SF Mono', Menlo, monospace">5 hackathons · web, blockchain &amp; AI</text>
+  </g>
+</svg>
