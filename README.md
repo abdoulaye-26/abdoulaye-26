@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" alt="Abdoulaye Sène — Full-Stack & DevOps Developer" width="100%" />
 
-**I build web apps and ship them to test.**
+**I build web apps and ship them to production.**
 
 📍 Malika, Dakar, Senegal &nbsp;·&nbsp; 🌍 Remote or on-site &nbsp;·&nbsp; 🗣️ French · English
 
