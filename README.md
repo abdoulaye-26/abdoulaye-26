@@ -55,7 +55,7 @@
 
 ## 🏆 Hackathons
 
-<img src="./assets/hackathons.svg" alt="Hackathons: SENGAM Hackathon (Apr 2024), Dakar Innovation Days (Jul 2024), BAM Blockchain e-voting (Oct 2024), Banlieue Smart Days (2025), MAGAL TECH Hackathon (2026)" width="100%" />
+<img src="./assets/hackathons.svg" alt="Hackathons: SENGAM Hackathon (Apr 2024), Dakar Innovation Days (Jul 2024), BAM Blockchain e-voting (Oct 2024), Banlieue Smart Days (2025), Online Hackathon: YourPast Hunts You game (Apr 2026), MAGAL TECH Hackathon (2026)" width="100%" />
 
 ---
 
